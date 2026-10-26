@@ -4,14 +4,6 @@
 
 This tutorial demonstrates a practical preprocessing workflow using **32-channel resting-state EEG data from patients with Parkinson's disease**. The goal is to prepare raw EEG recordings for downstream analyses by reducing artifacts and improving signal quality.
 
-> **Tutorial video:** [Watch the EEG preprocessing tutorial](PASTE_VIDEO_URL_HERE)
->
-> Replace `PASTE_VIDEO_URL_HERE` with your YouTube, LinkedIn, or other video link. You can also add a thumbnail using the example below.
-
-<!-- Optional video thumbnail:
-[![EEG preprocessing tutorial](images/tutorial-thumbnail.png)](PASTE_VIDEO_URL_HERE)
--->
-
 ## What you'll learn
 
 - How to set up and open EEGLAB in MATLAB
@@ -94,7 +86,7 @@ EEG ready for subsequent analysis
    eeglab;
    ```
 
-3. Load your EEG recording in EEGLAB, then follow the **[tutorial video](PASTE_VIDEO_URL_HERE)** and the workflow above.
+3. Load your EEG recording in EEGLAB, then follow the and the workflow above.
 4. Adjust preprocessing parameters for your recording conditions, analysis goals, and dataset requirements.
 
 ## Important processing notes
